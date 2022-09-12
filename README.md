@@ -6,15 +6,15 @@ This repository is for Achievement 4 of my data analytics course.  For this achi
 
 ### Data
 For this analysis, I used open source data from Instacart 
-orders
-products
-departments
+###### orders
+###### products
+###### departments
 Full description available [here](https://www.instacart.com/datasets/grocery-shopping-2017)
 
 ### Tools
 The following python libraries were used for this anlysis:
-pandas-for data analysis
-seaborn-for visualizations
+###### pandas-for data analysis
+######seaborn-for visualizations
 
 ### Code
 The code for this analysis is available in the scripts folder of the instacart analysis
