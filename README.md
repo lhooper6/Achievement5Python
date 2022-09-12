@@ -14,7 +14,7 @@ Full description available [here](https://www.instacart.com/datasets/grocery-sho
 ### Tools
 The following python libraries were used for this anlysis:
 ###### pandas-for data analysis
-######seaborn-for visualizations
+###### seaborn-for visualizations
 
 ### Code
 The code for this analysis is available in the scripts folder of the instacart analysis
